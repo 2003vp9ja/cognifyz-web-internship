@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #74ebd5, #ACB6E5);
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+h1 {
+    color: #333;
+}
+
+.tagline {
+    color: gray;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+    width: 60%;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.nav a {
+    margin: 10px;
+    text-decoration: none;
+    background-color: #555;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
